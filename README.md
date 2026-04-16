@@ -128,6 +128,18 @@ MIT License
 
 ## ⭐ Support
 
+---
+
+## 📫 Get In Touch
+
+Feel free to reach out for collaboration, freelance work, or just a chat!
+
+- 📧 **Email:** [anaarafa2019@gmail.com](mailto:anaarafa2019@gmail.com)  
+- 💼 **LinkedIn:** [Ahmed Gamal Arfa](https://www.linkedin.com/in/ahmed-gamal-arfa)  
+- 🌐 **Portfolio:** [arafa-a.lovable.app](https://arafa-a.lovable.app)  
+
+---
+
 If you like this project:
 
 - ⭐ Star the repo  
