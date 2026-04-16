@@ -17,6 +17,20 @@ This project helps users improve communication skills, confidence, and performan
 
 ---
 
+## 🎥 Live Demo
+
+> Replace the GIF below with your own demo
+
+![Demo](https://via.placeholder.com/900x500.gif?text=Your+App+Demo)
+
+**What this demo shows:**
+- 🎤 User speaking into the microphone  
+- 🤖 AI asking interview questions  
+- 🌍 Switching between languages  
+- 📊 Real-time feedback  
+
+---
+
 ## 🎯 Features
 
 - 🎙️ Real-Time Voice Interaction  
@@ -79,15 +93,6 @@ STT_PROVIDER=whisper
 TTS_PROVIDER=your_tts_service
 DEFAULT_LANGUAGE=en
 ```
-
----
-
-## 🎤 Demo Flow
-
-- User selects language  
-- AI introduces interview  
-- User answers by voice  
-- AI responds with next question + feedback  
 
 ---
 
